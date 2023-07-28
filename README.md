@@ -1,1 +1,2 @@
 # Chat-Application
+Developed a feature-rich chat application using the MERN stack, enabling real-time message sending and receiving.Integrated Socket.IO into the React.js client-side for seamless real-time communication between users.Implemented Group Chat functionality, allowing multiple users to participate in concurrent conversations.Added message modification and deletion features for enhanced user control over sent messages.
